@@ -15,7 +15,7 @@ namespace IceCream
                 var type = Factory.Get(i);
                 if (type!=null)
                 {
-                    Console.WriteLine("Species :"+type.GetType().Name.ToString());
+                    Console.WriteLine("All Species :"+type.GetType().Name.ToString());
                     Console.WriteLine("This is Product " + type.Functionality());
                 }
             }
