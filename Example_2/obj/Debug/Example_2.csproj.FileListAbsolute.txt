@@ -1,0 +1,6 @@
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Example_2\bin\Debug\Example_2.exe.config
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Example_2\bin\Debug\Example_2.exe
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Example_2\bin\Debug\Example_2.pdb
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Example_2\obj\Debug\Example_2.csprojResolveAssemblyReference.cache
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Example_2\obj\Debug\Example_2.exe
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Example_2\obj\Debug\Example_2.pdb

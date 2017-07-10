@@ -1,0 +1,6 @@
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Template_Method\bin\Debug\Template_Method.exe.config
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Template_Method\obj\Debug\Template_Method.csprojResolveAssemblyReference.cache
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Template_Method\bin\Debug\Template_Method.exe
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Template_Method\bin\Debug\Template_Method.pdb
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Template_Method\obj\Debug\Template_Method.exe
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Template_Method\obj\Debug\Template_Method.pdb

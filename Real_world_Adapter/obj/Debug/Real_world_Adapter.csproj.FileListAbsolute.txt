@@ -1,0 +1,6 @@
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Real_world_Adapter\bin\Debug\Real_world_Adapter.exe.config
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Real_world_Adapter\obj\Debug\Real_world_Adapter.csprojResolveAssemblyReference.cache
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Real_world_Adapter\bin\Debug\Real_world_Adapter.exe
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Real_world_Adapter\bin\Debug\Real_world_Adapter.pdb
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Real_world_Adapter\obj\Debug\Real_world_Adapter.exe
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Real_world_Adapter\obj\Debug\Real_world_Adapter.pdb

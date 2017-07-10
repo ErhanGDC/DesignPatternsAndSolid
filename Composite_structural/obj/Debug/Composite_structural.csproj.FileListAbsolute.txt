@@ -1,0 +1,6 @@
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Composite_structural\bin\Debug\Composite_structural.exe.config
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Composite_structural\obj\Debug\Composite_structural.csprojResolveAssemblyReference.cache
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Composite_structural\bin\Debug\Composite_structural.exe
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Composite_structural\bin\Debug\Composite_structural.pdb
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Composite_structural\obj\Debug\Composite_structural.exe
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Composite_structural\obj\Debug\Composite_structural.pdb

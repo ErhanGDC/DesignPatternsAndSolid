@@ -1,0 +1,5 @@
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Single_Responsibility_Principle\bin\Debug\Single_Responsibility_Principle.exe.config
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Single_Responsibility_Principle\bin\Debug\Single_Responsibility_Principle.exe
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Single_Responsibility_Principle\bin\Debug\Single_Responsibility_Principle.pdb
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Single_Responsibility_Principle\obj\Debug\Single_Responsibility_Principle.exe
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Single_Responsibility_Principle\obj\Debug\Single_Responsibility_Principle.pdb

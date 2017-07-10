@@ -1,0 +1,6 @@
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\TemplateMethodRealWorld\bin\Debug\TemplateMethodRealWorld.exe.config
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\TemplateMethodRealWorld\bin\Debug\TemplateMethodRealWorld.exe
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\TemplateMethodRealWorld\bin\Debug\TemplateMethodRealWorld.pdb
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\TemplateMethodRealWorld\obj\Debug\TemplateMethodRealWorld.csprojResolveAssemblyReference.cache
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\TemplateMethodRealWorld\obj\Debug\TemplateMethodRealWorld.exe
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\TemplateMethodRealWorld\obj\Debug\TemplateMethodRealWorld.pdb

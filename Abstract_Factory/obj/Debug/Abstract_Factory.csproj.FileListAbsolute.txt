@@ -1,0 +1,6 @@
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Abstract_Factory\bin\Debug\Abstract_Factory.exe.config
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Abstract_Factory\bin\Debug\Abstract_Factory.exe
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Abstract_Factory\bin\Debug\Abstract_Factory.pdb
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Abstract_Factory\obj\Debug\Abstract_Factory.exe
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Abstract_Factory\obj\Debug\Abstract_Factory.pdb
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Abstract_Factory\obj\Debug\Abstract_Factory.csprojResolveAssemblyReference.cache

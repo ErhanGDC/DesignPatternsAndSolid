@@ -1,0 +1,6 @@
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Builder_Pattern\bin\Debug\Builder_Pattern.exe.config
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Builder_Pattern\obj\Debug\Builder_Pattern.csprojResolveAssemblyReference.cache
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Builder_Pattern\bin\Debug\Builder_Pattern.exe
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Builder_Pattern\bin\Debug\Builder_Pattern.pdb
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Builder_Pattern\obj\Debug\Builder_Pattern.exe
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Builder_Pattern\obj\Debug\Builder_Pattern.pdb

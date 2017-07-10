@@ -1,0 +1,6 @@
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Singleton\bin\Debug\Singleton.exe
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Singleton\bin\Debug\Singleton.pdb
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Singleton\obj\Debug\Singleton.exe
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Singleton\obj\Debug\Singleton.pdb
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache

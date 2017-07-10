@@ -1,0 +1,6 @@
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\F_method3\bin\Debug\F_method3.exe.config
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\F_method3\obj\Debug\F_method3.csprojResolveAssemblyReference.cache
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\F_method3\bin\Debug\F_method3.exe
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\F_method3\bin\Debug\F_method3.pdb
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\F_method3\obj\Debug\F_method3.exe
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\F_method3\obj\Debug\F_method3.pdb

@@ -1,0 +1,6 @@
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Factory_Method\bin\Debug\Factory_Method.exe.config
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Factory_Method\bin\Debug\Factory_Method.exe
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Factory_Method\bin\Debug\Factory_Method.pdb
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Factory_Method\obj\Debug\Factory_Method.csprojResolveAssemblyReference.cache
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Factory_Method\obj\Debug\Factory_Method.exe
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Factory_Method\obj\Debug\Factory_Method.pdb

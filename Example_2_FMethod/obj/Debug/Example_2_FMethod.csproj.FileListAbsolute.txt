@@ -1,0 +1,6 @@
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Example_2_FMethod\bin\Debug\Example_2_FMethod.exe.config
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Example_2_FMethod\bin\Debug\Example_2_FMethod.exe
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Example_2_FMethod\bin\Debug\Example_2_FMethod.pdb
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Example_2_FMethod\obj\Debug\Example_2_FMethod.csprojResolveAssemblyReference.cache
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Example_2_FMethod\obj\Debug\Example_2_FMethod.exe
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\Example_2_FMethod\obj\Debug\Example_2_FMethod.pdb

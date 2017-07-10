@@ -1,0 +1,6 @@
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\FacadeEXample\bin\Debug\FacadeEXample.exe.config
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\FacadeEXample\bin\Debug\FacadeEXample.exe
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\FacadeEXample\bin\Debug\FacadeEXample.pdb
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\FacadeEXample\obj\Debug\FacadeEXample.csprojResolveAssemblyReference.cache
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\FacadeEXample\obj\Debug\FacadeEXample.exe
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\FacadeEXample\obj\Debug\FacadeEXample.pdb

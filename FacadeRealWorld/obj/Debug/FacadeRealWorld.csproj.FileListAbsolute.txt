@@ -1,0 +1,6 @@
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\FacadeRealWorld\bin\Debug\FacadeRealWorld.exe.config
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\FacadeRealWorld\bin\Debug\FacadeRealWorld.exe
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\FacadeRealWorld\bin\Debug\FacadeRealWorld.pdb
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\FacadeRealWorld\obj\Debug\FacadeRealWorld.csprojResolveAssemblyReference.cache
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\FacadeRealWorld\obj\Debug\FacadeRealWorld.exe
+C:\Users\LG\Desktop\DesignPatterns_And_Solid\FacadeRealWorld\obj\Debug\FacadeRealWorld.pdb
